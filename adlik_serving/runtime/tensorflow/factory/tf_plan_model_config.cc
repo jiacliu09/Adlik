@@ -7,7 +7,7 @@
 
 #include "tensorflow/cc/saved_model/loader.h"
 #include "tensorflow/cc/saved_model/tag_constants.h"
-#include "tensorflow/contrib/session_bundle/bundle_shim.h"
+// #include "tensorflow/contrib/session_bundle/bundle_shim.h"
 #include "tensorflow/core/framework/tensor_util.h"
 
 namespace tensorflow {
